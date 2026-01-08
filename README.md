@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Blogames
-- Im just an amator coder, folling around here sometimes.
+
